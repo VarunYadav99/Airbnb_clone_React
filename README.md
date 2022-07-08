@@ -1,6 +1,6 @@
 # Airbnb_clone_React
 its an Airbnb clone used React in the frontend and firebase in the backend
-learning Zustand in this project
+in this project
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
